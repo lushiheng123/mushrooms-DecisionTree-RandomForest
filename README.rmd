@@ -1,7 +1,6 @@
 Here is a description of each file in the repository:
-	- mushrooms.csv - the mushroom data set from the UCI Machine Learning repository, downloaded from Kaggle (https://www.kaggle.com/uciml/mushroom-classification)
-	- EagerBrian_decisiontree.py - implementations of the DecisionTree algirhtm (Algorithm 19.1) and the RandomForest algorithm (Algorithm 22.5) from "Data Mining and Machine Learning" (2nd Edition) by Zaki and Meira.
-	- Edibility_of_mushrooms.ipynb - the main code for the project, that reads mushrooms.csv into a pandas.DataFrame and in which all models are built.  Imports classes from EagerBrian_decisiontree.py.  Must be in the same directory as both mushrooms.csv and EagerBrian_decisiontree.py to run correctly.
-	- Edibility_of_mushrooms.html - an html rendering of Edibility_of_mushrooms.ipynb
-	- EagerBrian_EdibilityOfMushrooms.pptx - a narrated (audio) PowerPoint presentation summarizing this project.
-	- EagerBrian_EdibilityOfMushrooms.mp4 - an mp4 rendering of EagerBrian_EdibilityOfMushrooms.pptx
+	:: mushrooms.csv :: the mushroom data set from the UCI Machine Learning repository, downloaded from Kaggle (https://www.kaggle.com/uciml/mushroom-classification)
+	:: EagerBrian_decisiontree.py :: implementations of the DecisionTree algirhtm (Algorithm 19.1) and the RandomForest algorithm (Algorithm 22.5) from "Data Mining and Machine Learning" (2nd Edition) by Zaki and Meira.
+	:: Edibility_of_mushrooms.ipynb :: the main code for the project, that reads mushrooms.csv into a pandas.DataFrame and in which all models are built.  Imports classes from EagerBrian_decisiontree.py.  Must be in the same directory as both mushrooms.csv and EagerBrian_decisiontree.py to run correctly.
+	:: Edibility_of_mushrooms.html :: an html rendering of Edibility_of_mushrooms.ipynb
+	:: EagerBrian_EdibilityOfMushrooms.pptx :: a narrated (audio) PowerPoint presentation summarizing this project.
